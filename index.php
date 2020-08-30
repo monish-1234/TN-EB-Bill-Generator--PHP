@@ -22,7 +22,6 @@
        ?>
 <html>
 <head>
-<link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/en/e/e9/Tamil_Nadu_Electricity_Board_%28emblem%29.jpg   " type="image/x-icon">
 <link rel="shortcut icon" href="https://techmaniac.in/proxy/favicon.png" type="image/x-icon">
 
 <title>TN Domestic EB Bill Generator</title>
