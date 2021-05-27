@@ -23,6 +23,14 @@
 <html>
 <head>
 <link rel="shortcut icon" href="https://techmaniac.in/proxy/favicon.png" type="image/x-icon">
+<meta name="title" content="TNEB Bill Calculator | TechManiac">
+<meta name="description" content="Calculate TNEB Bill from meter. Lastest Data . TNEB Bill Calculator">
+<meta name="keywords" content="Calculate TNEB Bill from meter, TNEB Bill Calculator, EB Bill Calculator Tamil Nadu">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="author" content="Tech Maniac  | Monish Ram">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>TN Domestic EB Bill Generator</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -53,6 +61,7 @@
 
 </div>
 <div class="footer">
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HFwk8bfd3OvLnF" async> </script> </form>
 <div class="p-3 mb-2 bg-dark text-white"> This Generator is based on the official Tarrif rate from TANGEDCO which can be found <a href="http://www.tnerc.gov.in/orders/Tariff%20Order%202009/2019/SubsidyOrder-2019-20.pdf" target="blank">here</a><br>
  By Using these services you agree to our<a href="https://proxy.techmaniac.in/terms.html"> <u><i>Terms and Conditions</i></u> </a> and <a href="https://proxy.techmaniac.in/privacy.html" > <u><i>Privacy Policy</i></u> </a>
            <br>Designed with ❤️ By <a href="https://techmaniac.in"> Tech Maniac</a>
